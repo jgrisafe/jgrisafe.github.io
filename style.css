@@ -1,0 +1,13 @@
+.clearfix::after {
+  content: '';
+  clear: both;
+  display: block;
+}
+
+.bart-img {
+  float: left;
+}
+
+.bart-bio {
+  font-size: 14px;
+}
